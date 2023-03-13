@@ -1,2 +1,2 @@
-module github.com/UnknownX1/gosseract/v2
+module github.com/UnknownX1/gosseract
 go 1.13
